@@ -8,7 +8,7 @@ I'm Ahmed Abdelhafiz <br>Network and security student <br>
 
 ## 🌐 Socials:
 https://www.instagram.com/jpsq0/
- 
+![image](https://github.com/user-attachments/assets/585eb30f-16fa-4140-aa2c-162098f42a84)
 
 
 
@@ -16,8 +16,6 @@ https://www.instagram.com/jpsq0/
 
 #### Skills 
 Football player<br>Excelled in most sports in general<br>C++ coding
-ؤ
-ؤ
 
 
 
@@ -27,5 +25,4 @@ Football player<br>Excelled in most sports in general<br>C++ coding
 
 
 
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  
+
