@@ -21,8 +21,8 @@ I'm Ahmed Abdelhafiz <br>Network and security student <br>
 
 #### Skills 
 - Football player
-- - Excelled in most sports in general
-  -  - Master of C++
+- Excelled in most sports in general
+- Master of C++
 
 
 
