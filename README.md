@@ -3,13 +3,14 @@
 
 
 #  About Me:
-I'm Ahmed Abdelhafiz <br>Network and security student <br>I'm a shy girl<br>
+I'm Ahmed Abdelhafiz <br>Network and security student <br>
 
 ![giphy](https://github.com/sheaujun/SECP1513-06-TECHNOLOGY-AND-INFORMATION-SYSTEM/assets/147408149/06f75c5b-8771-443f-808b-5e1d0783c660)
 
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/jpsq0/) 
+[![Instagram]![Uploading image.png…]()
+ 
 
 
 
@@ -19,9 +20,7 @@ I'm Ahmed Abdelhafiz <br>Network and security student <br>I'm a shy girl<br>
 - **University**: University Teknologi Malaysia (UTM) Skudai
 
 #### Skills 
-Football player
-Excelled in most sports in general
-C++ coding
+Football player<br>Excelled in most sports in general<br>C++ coding
 ؤ
 ؤ
 
