@@ -1,4 +1,5 @@
-# SECP1513-06-TECHNOLOGY-AND-INFORMATION-SYSTEM
+# SECP1513-05 TEKNOLOGI DAN SISTEM MAKLUMAT (TECHNOLOGY AND INFORMATION SYSTEM)
+
 ![Blue Illustration Innovation Technology Poster](https://github.com/user-attachments/assets/8790584a-952e-4a5c-9151-ba6791256b5b)
 
 
