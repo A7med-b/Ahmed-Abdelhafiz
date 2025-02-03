@@ -1,5 +1,5 @@
 # SECP1513-06-TECHNOLOGY-AND-INFORMATION-SYSTEM
-![image]![Uploading Blue Illustration Innovation Technology Poster.png…]()
+![image][Uploading Blue Illustration Innovation Technology Poster.png…]()
 
 
 #  About Me:
