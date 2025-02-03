@@ -11,7 +11,7 @@ I'm Ahmed Abdelhafiz <br>Network and security student <br>
 ![image](https://github.com/user-attachments/assets/397d8959-7a3b-4b4d-b750-8a17ebb28e22)
 
 
-### b. Core
+
 #### Education
 - **Degree**: Computer Science (Software Engineering)
 - **University**: University Teknologi Malaysia (UTM) Skudai
