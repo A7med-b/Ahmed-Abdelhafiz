@@ -13,8 +13,8 @@ I'm Ahmed Abdelhafiz <br>Network and security student <br>
 
 
 #### Education
-- **Degree**: Computer Science (Software Engineering)
-- **University**: University Teknologi Malaysia (UTM) Skudai
+- **Degree**: Computer Science (Network and security)
+- **University**: University Teknologi Malaysia (UTM) 
 
 
 
